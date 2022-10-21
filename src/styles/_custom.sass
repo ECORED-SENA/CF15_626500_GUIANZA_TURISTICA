@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 70%
+    right: 0
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 65%
+    left: -5%
 
 
 @keyframes float1
@@ -17,3 +17,410 @@
 
   100%
     transform: translateY(0px)
+
+// banner interno
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/fondo-banner-interno.jpg") !important    
+
+.banner-interno__titulo__icono
+  background-color: white !important
+  
+.banner-interno__titulo h2
+  color: white !important 
+
+//banner principal
+.banner-principal__img
+  align-self: center
+  padding-top: 1rem !important
+  padding-bottom: 0 !important
+  padding-left: 3rem !important
+
+// fondos
+.fondo
+  &-1
+    background-color: #EB6F2D
+  &-2
+    background-color: #FCC843
+  &-3
+    background-image: url('../assets/curso/tema1/fondo1.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: center
+    @media (max-width: 1200px)
+      background-size: 100% 100%
+      background-position: right
+    @media (max-width: 991px)
+      display: none
+  &-4
+    background-color: #FFD667
+  &-5
+    .tarjeta--gris
+      background-color: #D2E1F1
+  &-6
+    background-image: url('../assets/curso/tema1/fondo2.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: right
+    @media (min-width: 992px)
+      display: none
+  &-7
+    background-image: url('../assets/curso/tema1/fondo3.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: bottom
+  &-8
+    background-color: #E2E8E0
+  &-9
+    background-image: url('../assets/curso/tema1/fondo4.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: left
+  &-10
+    background-color: #FFE6A1
+  &-11
+    background-image: url('../assets/curso/tema1/fondo5.png')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: left
+  &-12
+    background-color: #FFB338
+    border-radius: 30px
+  &-13
+    background-image: url('../assets/curso/tema2/fondo1.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: center
+  &-14
+    background-image: url('../assets/curso/tema2/fondo2.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: center
+  &-15
+    background-image: url('../assets/curso/tema2/fondo3.png')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: center top
+  &-16
+    background-image: url('../assets/curso/tema3/fondo1.png')
+    background-size: 100% auto
+    background-repeat: no-repeat
+    background-position: center left
+    @media (max-width: 1200px)
+      background-size: 100% 320px
+      background-position: left
+    @media (max-width: 991px)
+      display: none
+  &-17
+    background-image: url('../assets/curso/tema3/fondo2.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: center left
+  &-18
+    background-image: url('../assets/curso/tema3/fondo3.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: center
+  &-19
+    background-image: url('../assets/curso/tema3/fondo4.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: center
+  &-20
+    background-color: #FFF4E1
+    border-radius: 10px
+  &-21
+    background-image: url('../assets/curso/tema3/fondo5.svg')
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: bottom
+  &-22
+    background-color: #FCE9DF
+  &-23
+    background-image: url('../assets/curso/tema4/fondo1.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: right
+    @media (max-width: 1100px)
+      background-size: 100% 350px
+  &-24
+    background-image: url('../assets/curso/tema5/fondo1.svg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: left
+  &-25
+    background-image: url('../assets/curso/tema5/fondo2.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: bottom
+  &-26
+    background-image: url('../assets/curso/tema5/fondo5.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: bottom
+  &-27
+    background-image: url('../assets/curso/tema5/fondo6.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: bottom
+
+//texto resaltado
+.resaltado
+  color: #EB6F2D
+
+// texto subrayado
+.subrayado
+  text-decoration: underline
+  text-decoration-color: #DC753F
+
+// expandir fondos
+.ampliar
+  margin-left: -60px
+  margin-right: -60px
+
+//mostrar una u otro diseño de maquetación
+.mostrar1
+  @media (max-width: 991px)
+    display: none
+
+.mostrar2
+  @media (min-width: 992px)
+    display: none
+
+//ancho columna de la tabla 1
+.anchocol
+  width: 1%
+
+.tabla-c td:first-child
+  width: 15% !important
+
+// tamaño de imagen
+.sizeimg
+  width: 30%
+  height: 30%
+
+.sizeimg1
+  width: 120%
+  height: 120%
+
+.sizeimg2
+  width: 30px
+  height: 30px
+  margin-: 0 auto
+  margin-left: 0
+
+// borde superior de tabla
+.bordesup
+  border-top: 6px solid #EB6F2D !important
+
+///////// Card hover
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important
+  border-radius: 10px
+  background-color: #FFE6A1
+  &:hover    
+    .crd_hover_txt--body  
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #FCC843
+    border-radius: 10px
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+  @media (max-width: 500px)  
+    .crd_hover_txt--body
+      h4 
+        font-size: 1em
+      p
+        font-size: 0.8em
+
+// color esquina cajón
+.cajon.fondocuadrado:before
+  background-color: #406834
+
+.cajon.fondocuadrado1:before
+  background-color: #DAAF40
+
+//slider
+.slyder-a__bullets__item--active
+  background-color: #406834 !important
+  border-color: #406834 !important
+  opacity: 1
+
+.slyder-a__bullets__item 
+  background-color: #AEB9A6
+
+.slyder-a__bullets__item
+  @media (max-width: 768px)  
+    margin: 0 5px
+  @media (max-width: 576px)  
+    margin: 0 2px
+  @media (max-width: 450px)  
+    margin: 0 1px
+.slyder-a__bullets__item
+  @media (max-width: 450px)  
+    width: 11px
+    height: 11px
+  @media (max-width: 380px)  
+    width: 8px
+    height: 8px
+  @media (max-width: 350px)  
+    width: 5px
+    height: 5px
+
+//-- correr
+.correrabajo
+  margin-bottom: -40px
+  z-index: 999
+
+.correrabajo1
+  @media (min-width: 991px)  
+    margin-bottom: -50px
+    z-index: 999
+
+.correrabajo2
+  @media (min-width: 991px)  
+    margin-bottom: -20px
+    z-index: 999
+
+.correrizq
+  margin-left: -50px
+  z-index: 999
+  @media (max-width: 1400px)
+    margin-left: -40px
+  @media (max-width: 1200px)
+    margin-left: -25px
+  @media (max-width: 991px)
+    margin-left: -5px
+
+.correrizq1
+  margin-left: -50px
+  z-index: 999
+  @media (max-width: 1400px)
+    margin-left: -40px
+  @media (max-width: 1200px)
+    margin-left: -25px
+  @media (max-width: 991px)
+    margin-left: -5px
+
+.correrizq2
+  margin-left: -60px !important
+  z-index: 0
+
+.adelante
+  z-index: 99999 !important
+
+.correrder
+  margin-right: -80px
+  z-index: 999
+  @media (max-width: 991px)
+    margin-right: -25px
+
+// cambiar orientación de bloque
+.bloque-texto-g__img.cambioimg
+  width: 50%
+  position: absolute
+  top: 0
+  left: 50%
+  bottom: 0
+  background-position: center
+  background-size: cover
+  @media (max-width: 991px)
+    width: 100%
+    top: 0
+    left: 0
+
+.bloque-texto-g__texto.cambiotexto
+  position: relative
+  width: 60%
+  background-color: rgba(255, 255, 255, 0.95)
+  left: -40%
+  @media (max-width: 991px)
+    position: relative
+    width: 100%
+    left: 0
+
+// linea de tiempo
+.linea-tiempo-d__item--selected .tarjeta--gris
+  background-color: #E2E8E0 !important
+
+//.cambiocolor
+//  .linea-tiempo-d__item .tarjeta--gris
+//    background-color: #F6F6F6
+
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  color: #12263F
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  font-size: 18px
+
+.linea-tiempo-c__header__btn--right
+  background-color: #0387D0
+
+.fa-angle-right:before
+  content: "\f105"
+  color: #fff
+
+.linea-tiempo-c__header__btn--left
+  background-color: #0387D0
+
+.fa-angle-left:before
+  content: "\f104"
+  color: #fff
+
+//padding
+.padd
+  padding-left: 35px
+  padding-right: 35px
+
+// tamaño de imagen
+.tarjeta-avatar-b__img
+  min-width: 30%
+  max-width: 30%
+  position: relative
+  display: flex
+  align-items: center
+
+//redondear
+.redondear
+  border-radius: 15px
+
+// Maquetación tarjeta 
+.anchotar
+  .tarjeta-avatar .tarjeta
+    margin-bottom: 20px 
+    @media (min-width: 1401px)
+      min-height: 160px
+      min-width: 320px
+    @media (max-width: 1400px)
+      height: 160px
+      width: 270px
+    @media (max-width: 1200px)
+      height: 160px
+      width: 330px
+    @media (max-width: 991px)
+      height: 180px
+      width: 250px 
+    @media (max-width: 768px)
+      height: 170px
+      width: 100%
+
+//botones de desplazamiento de un slider 
+.fa-chevron-right:before
+  content: "\f054"
+  color: #707BA3
+
+.fa-chevron-left:before
+  content: "\f053"
+  color: #707BA3
