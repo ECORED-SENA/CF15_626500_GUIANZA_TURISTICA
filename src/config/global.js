@@ -142,132 +142,114 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Atehortúa, J. y Miranda, J. (2017). Técnicas de campismo. SENA Regional Caldas. Centro de Comercio y Servicios.',
+    },
+    {
+      referencia:
+        'Conicet. (2016). Manual de procedimientos para organizar salidas de campo. Conicet.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
-    },
-    {
-      referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
-    },
-    {
-      referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.conicet.gov.ar/wp-content/uploads/Manual-de-procedimientos-para-organizar-salidas-de-campo.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Caminata',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'acción de desplazarse andando sobre los pies, paso tras paso, sin trotar, ni correr, sobre una superficie. Actividad esencial al aire libre.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Campamento',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'lugar al aire libre especialmente dispuesto para acampar y albergar personas con carpas o tiendas de campaña.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Campamento base',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'campamento con estaciones fijas, es decir, que siempre permanecen en un lugar.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Campismo',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'actividad que se realiza al aire libre y que consiste en acampar, en carpas o tiendas de campaña a la intemperie, durante un periodo de tiempo.',
     },
     {
-      termino: 'Moda',
+      termino: 'Cantimplora',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'frasco de forma aplanada, de plástico o metal, revestido generalmente de cuero o tela para llevar bebidas en viajes o excursiones.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Caramañola',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'frasco de forma cilíndrica, de plástico o metal que se utiliza para transportar líquido, especialmente en actividades al aire libre.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Carpa',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'tienda de campaña, con paredes, techo, suelo, ventanas, puertas con cremallera, conformada por materiales ligeros, resistentes e impermeables, artefacto o accesorio portátil donde se acampa, de fácil instalación, la carpa es el elemento principal e indispensable en un campamento.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Cocción',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'proceso de cocinar un alimento, exponiéndolo a la acción del calor, con el fin de que este adquiera ciertas características quedando apto para su consumo.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Conservación',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'cuidados que se le dan a los alimentos con el fin de que no pierdan sus características y propiedades con el paso del tiempo, tanto en el frío como en el calor. Importante aclarar que el término también se relaciona con la conservación de la naturaleza.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Entorno natural',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'es aquél constituido por elementos naturales como el clima, el aire, el agua, la fauna y la flora, el relieve, el suelo, entre otros, que se relacionan e interactúan entre sí en el tiempo y espacio.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Estaca',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'objeto contundente que cuenta con una punta en uno de sus extremos, que permite clavarlo en el terreno, con el fin de que este sirva para sujetar o anclar.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Herramienta',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'objeto elaborado que sirve como extensión del cuerpo de quien lo usa para permitir o facilitar una tarea mecánica, que sin ella no se podría realizar. Este artefacto es esencial en el montaje de campamentos.',
+    },
+    {
+      termino: 'Microorganismos',
+      significado:
+        'seres vivos diminutos que se pueden apreciar a través de un microscopio, responsables del deterioro de algunos alimentos.',
+    },
+    {
+      termino: 'Soga',
+      significado:
+        'cuerda de diversos largos y grosores utilizada para diferentes usos.',
+    },
+    {
+      termino: 'Tabú',
+      significado:
+        'demarcación o límite que se establece alrededor del campamento en el cual se deja un espacio llamado puerta, como la única entrada permisible.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Salidas de campo',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Conicet. (2016). Manual de procedimientos para organizar salidas de campo. Gerencia de Administración.  Conicet.',
+      tipo: 'PDF',
+      link:
+        'https://www.conicet.gov.ar/wp-content/uploads/Manual-de-procedimientos-para-organizar-salidas-de-campo.pdf',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Procedimientos de montaje de campamentos',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Atehortúa, J. y Miranda, J. (2017). Técnicas de campismo. SENA Regional Caldas. Centro de Comercio y Servicios.',
+      tipo: 'Cartilla-PDF',
+      descarga: '/downloads/tecnicas_de_campismo.pdf',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Menú y cocina de campamento',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'SENA. (2017). Manual acampar conservando. SENA Regional Caldas. Centro de Comercio y Servicios.',
+      tipo: 'Maniual-PDF',
+      descarga: '/downloads/manual_acampar_conservando.pdf',
     },
   ],
   creditos: {
@@ -279,6 +261,26 @@ export default {
       },
     ],
     contenidoInstruccional: [
+      {
+        nombre: 'Jorge Eduardo Atehortúa López',
+        cargo: 'Instructor',
+        centro: 'Regional Caldas - Centro de Comercio y Servicios',
+      },
+      {
+        nombre: 'Fabio Alberto Ramírez Ayala',
+        cargo: 'Experto temático',
+        centro: 'Regional Tolima - Centro Comercio y Servicios',
+      },
+      {
+        nombre: 'Ana Vela Rodríguez Velásquez',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Asesora metodológica',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
@@ -294,46 +296,72 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jorge Enrique Haylock Calderín',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Estefani Daniela Gallo Cortés',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Miguel Guerrero Gutiérrez',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Lina Marcela Pérez Manchego',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Laura Ximena Hurtado Villalba',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Ernesto Navarro Jaimes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Erika Viviana Sandoval Rojas',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
@@ -341,25 +369,4 @@ export default {
       },
     ],
   },
-  // creditosInicio: [
-  //   {
-  //     titulo: 'En alianza',
-  //     contenido: [
-  //       require('@/assets/template/logo-sena-naranja.svg'),
-  //       require('@/assets/template/mintic.jpg'),
-  //       require('@/assets/template/minsalud.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'En compañía',
-  //     contenido: [
-  //       require('@/assets/template/presidencia.jpg'),
-  //       require('@/assets/template/ecopetrol.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'Una iniciativa',
-  //     contenido: [require('@/assets/template/santander.jpg')],
-  //   },
-  // ],
 }

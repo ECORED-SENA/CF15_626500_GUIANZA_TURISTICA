@@ -23,15 +23,15 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-down-left")
       h2 3.1 Campismo   
     .row.justify-content-center.fondo-18.pt-5.ps-3
-      .col-lg-7.col-md-12
+      .col-lg-7.col-md-12(data-aos="fade-down-left")
         p Es considerado una de las mejores actividades al aire libre, porque conlleva al descanso y el beneficio del cuerpo y de la mente; por ser una actividad que se desarrolla en el entorno natural permite disfrutar de un espacio para respirar aire puro, meditar, sentir la libertad y tranquilidad que ofrece el campo. 
         p Esta actividad genera un beneficio importante en las áreas de la afectividad, la sociabilidad y la espiritualidad, además permite trabajar en equipo, vivir experiencias sensoriales, escuchar los sonidos de la naturaleza, armonizar energías en un estado natural y estimular el aprendizaje por la acción, y otras ventajas que se presentan a continuación.
-      .col-lg-5.col-md-12
+      .col-lg-5.col-md-12(data-aos="fade-down-right")
         img(src='@/assets/curso/tema3/figura1.svg')
     .row.align-items-center.my-5
-      .col-1
+      .col-1(data-aos="fade-down-right")
         img.sizeimg2(src='@/assets/curso/tema3/brujula.svg')
-      .col-auto.ps-0.correrizq
+      .col-auto.ps-0.correrizq(data-aos="fade-down-left")
         h4.subrayado.ms-0.mb-0 Ventajas del campismo para el ser humano
     SlyderA.fondo-7.my-5(data-aos="fade-down-right").p-5(tipo="b")
       .row
@@ -48,11 +48,11 @@
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema3/imagen3.png')
-    p.my-5 Existe otro factor importante, se ofrecen diferentes tipos de campamentos de acuerdo con la organización y características definidas con precisión, según el propósito, los equipos, las actividades y las pautas a seguir para el óptimo desarrollo de este. Algunos son:
+    p.my-5(data-aos="fade-down-left") Existe otro factor importante, se ofrecen diferentes tipos de campamentos de acuerdo con la organización y características definidas con precisión, según el propósito, los equipos, las actividades y las pautas a seguir para el óptimo desarrollo de este. Algunos son:
     .row.align-items-center.my-5
-      .col-1
+      .col-1(data-aos="fade-down-right")
         img.sizeimg2(src='@/assets/curso/tema3/brujula.svg')
-      .col-auto.ps-0.correrizq
+      .col-auto.ps-0.correrizq(data-aos="fade-down-left")
         h4.subrayado.ms-0.mb-0 Tipos de campismo
     .row.justify-content-center
       .col-lg-8.col-md-12.mb-4(data-aos="fade-down-right")
@@ -86,18 +86,18 @@
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-left")
       h2 3.2 Procedimientos de montaje de campamentos
-    p.mb-5 Antes de salir a acampar es necesario tener en cuenta una serie de recomendaciones, así como conocer los equipos e indumentaria apropiados para llevar a cabo una actividad exitosa en términos de planeación por  consiguiente, se verán algunos pasos para el montaje de campamentos:
+    p.mb-5(data-aos="fade-down-left") Antes de salir a acampar es necesario tener en cuenta una serie de recomendaciones, así como conocer los equipos e indumentaria apropiados para llevar a cabo una actividad exitosa en términos de planeación por  consiguiente, se verán algunos pasos para el montaje de campamentos:
     .row.align-items-center.my-5
-      .col-1
+      .col-1(data-aos="fade-down-right")
         img.sizeimg2(src='@/assets/curso/tema3/brujula.svg')
-      .col-auto.ps-0.correrizq
+      .col-auto.ps-0.correrizq(data-aos="fade-down-left")
         h4.subrayado.ms-0.mb-0 Montaje de campamentos
     .row.fondo-19
-      .col-auto.p-5
+      .col-auto.p-5(data-aos="fade-down-left")
         h3 Es clave conocer técnicas esenciales de campamentismo
       .row.justify-content-center
         .col-lg-10.col-md-12.pb-5.ps-4
-          ImagenInfografica.color-acento-botones
+          ImagenInfografica.color-acento-botones(data-aos="fade-down-right")
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/tema3/figura2.svg', alt='Técnicas esenciales de campamentismo')
@@ -137,12 +137,12 @@
               p.mb-0 Elegir un líder que con anticipación conozca la zona.
               p.mb-0 Hacer una lista de chequeo con los datos personales.
               p.mb-0 Formar a los campistas en su corresponsabilidad medioambiental.
-    p.my-5 A continuación se mencionan las pautas para un óptimo desarrollo de la actividad de campismo en el lugar de destino y en la ejecución del campamento: 
-    figure.mb-5
+    p.my-5(data-aos="fade-down-right") A continuación se mencionan las pautas para un óptimo desarrollo de la actividad de campismo en el lugar de destino y en la ejecución del campamento: 
+    figure.mb-5(data-aos="fade-down-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/epZC1UKYroo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .tarjeta.fondo-21.px-4.pt-4.mb-0
+    .tarjeta.fondo-21.px-4.pt-4.mb-0(data-aos="fade-down-left")
       //- LineaTiempoC debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- text-small se usa para que los títulos sean mas pequeños
@@ -207,10 +207,10 @@
             img.mb-0(src='@/assets/curso/tema3/fig10-1.png')
           .col-lg-4.col-md-12.pb-0
             img.mb-0(src='@/assets/curso/tema3/fig10-2.svg')
-    p.my-5 Como se mencionó con anterioridad, seguir las indicaciones para armar una carpa es primordial para asegurar una estadía cómoda y de calidad, por ello es fundamental atender las siguientes orientaciones:  
+    p.my-5(data-aos="fade-down-right") Como se mencionó con anterioridad, seguir las indicaciones para armar una carpa es primordial para asegurar una estadía cómoda y de calidad, por ello es fundamental atender las siguientes orientaciones:  
     .tarjeta.fondo-20.px-5.pt-4.mb-0
 
-      LineaTiempoC.color-acento-botones(text-small)
+      LineaTiempoC(data-aos="fade-down-left").color-acento-botones(text-small)
         .row.justify-content-center(titulo="1")
           .col-12.pb-0
             img.mb-4(src='@/assets/curso/tema3/figura5.svg')
@@ -340,7 +340,7 @@
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 14:
                 p Finalmente, recuerde que diariamente se debe verificar el viento para evitar daños  o deformaciones de la carpa, recuerde siempre cerrar la carpa al salir, esto por seguridad.
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-down-left")
       .col-10
         .tarjeta.fondo-15.p-1.my-5
           .row.justify-content-center.align-items-center
@@ -352,7 +352,7 @@
                   h3.mb-1 Las técnicas de campismo
                   p Se invita a leer el documento ¨Las técnicas de campismo¨, que le ayudará a afianzar su conocimiento sobre el tema.
                 .col-sm-auto.pe-4.ps-5.ps-sm-0.mb-4.mb-sm-0
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/tecnicas_de_campismo.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download 
 </template>

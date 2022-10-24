@@ -159,9 +159,68 @@
     background-position: bottom
   &-27
     background-image: url('../assets/curso/tema5/fondo6.jpg')
-    background-size: 100% 100%
+    background-size: 100% auto
     background-repeat: no-repeat
     background-position: bottom
+  &-28
+    background-color: #FFF4E3
+    border-radius: 20px
+  &-29
+     width: 40px
+     height: 40px
+     -moz-border-radius: 50%
+     -webkit-border-radius: 50%
+     border-radius: 50%
+     background: #0387D0
+  &-30
+    background-image: url('../assets/curso/tema5/fondo7.jpg')
+    background-size: 100% auto
+    background-repeat: no-repeat
+    background-position: bottom
+  &-31
+    background-image: url('../assets/curso/tema5/fondo8.png')
+    background-size: 100% auto
+    background-repeat: no-repeat
+    background-position: left
+  &-32
+    background-image: url('../assets/curso/tema6/fondo1.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: top
+  &-33
+    background-image: url('../assets/curso/tema6/fondo2.png')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: right
+  &-34
+    background-color: #FFF
+    border-radius: 10px
+    box-shadow: 4px 4px 4px 4px #e0dddda1
+  &-35
+    background-image: url('../assets/curso/tema6/fondo3.png')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: left
+  &-36
+    background-image: url('../assets/curso/tema6/fondo4.jpg')
+    background-size: 100% 100%
+    background-repeat: no-repeat
+    background-position: left
+  &-37
+    background-image: url('../assets/curso/tema6/fondo5.jpg')
+    background-size: 100% auto
+    background-repeat: no-repeat
+    background-position: top center
+    @media (max-width: 992px)
+      background-position: bottom
+  &-38
+    background-color: #FFF4E1
+    border-radius: 10px
+    width: 48%
+    @media (max-width: 992px)
+      width: 100% 
+
+
 
 //texto resaltado
 .resaltado
@@ -318,6 +377,12 @@
   margin-left: -60px !important
   z-index: 0
 
+.correrizq3
+  margin-left: -60px 
+  z-index: 0
+  @media (max-width: 576px)
+    margin-left: 0 
+
 .adelante
   z-index: 99999 !important
 
@@ -372,6 +437,14 @@
   content: "\f105"
   color: #fff
 
+.otrocolor.fa-angle-right:before
+  content: "\f105"
+  color: #EB6F2D
+
+.otrocolor2.fa-angle-right:before
+  content: "\f105"
+  color: #406834
+
 .linea-tiempo-c__header__btn--left
   background-color: #0387D0
 
@@ -424,3 +497,43 @@
 .fa-chevron-left:before
   content: "\f053"
   color: #707BA3
+
+// tamaño imagen avatar
+.tarjeta-avatar.otra > img
+    position: absolute
+    left: 50%
+    top: -85px
+    transform: translateX(-50%)
+    display: block
+    width: 250px
+    margin: 0 auto
+
+.tarjeta-avatar.otra1 > img
+    position: absolute
+    left: 50%
+    top: -75px
+    transform: translateX(-50%)
+    display: block
+    width: 250px
+    margin: 0 auto
+
+.tarjeta-avatar-b.otra2 .tarjeta
+  width: 100%
+  margin-right: -10%
+  margin-left: 0
+  padding-left: 0
+
+//tabla
+.colorcelda
+  background-color: #f6f6f6 !important
+.orientacion
+  vertical-align: top !important
+
+//Pasos
+.pasos-a.color-acento-contenido .pasos-a__circle div
+    color: #fff
+
+//color viñeta
+.fa-location-arrow:before
+  content: "\f124"
+  color: #EB6F2D

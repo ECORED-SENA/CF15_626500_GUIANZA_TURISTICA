@@ -12,7 +12,7 @@
       )
       .bloque-texto-g__texto.cambiotexto.p-4
         span.mb-0 Las salidas de campo como estrategia son un conjunto de acciones o actividades que en el entorno educativo permiten el logro de aprendizajes conectados con los resultados formativos y el desarrollo de habilidades o destrezas que aportan al perfil del guía.
-    p.my-5 Las actividades para los guías en formación en el SENA tienen diferentes momentos de intervención con el fin de interactuar con la comunidad, tales como:
+    p.my-5(data-aos="fade-down-left") Las actividades para los guías en formación en el SENA tienen diferentes momentos de intervención con el fin de interactuar con la comunidad, tales como:
     .titulo-sexto.color-acento-contenido(data-aos="fade-up")
       h5 Figura 1
       span Modelos de intervención para un aprendiz SENA
@@ -46,17 +46,17 @@
           .col-lg-8.col-md-10.col-sm-12(data-aos="fade-up-right")
             img(src='@/assets/curso/tema2/figura2.svg')
     .row.justify-content-center.mt-5
-      .col-lg-8.col-md-12.mb-4
+      .col-lg-8.col-md-12.mb-4(data-aos="fade-down-right")
         p Por otro lado, parte de la experiencia del guía en las salidas de campo es enseñarles a valorar la relación entre el ser humano, la naturaleza,la salud física y mental, por ejemplo, los niños, quienes se expresan al aire libre despertando su deseo de correr y saltar, mejorando la salud y alejándolos de enfermedades. 
         p Es importante recordar que el aire libre y el aprendizaje mediado por el juego promueven la curiosidad, la creatividad y el pensamiento crítico, convirtiendo este espacio en un aula viva donde se aprende de forma ágil. 
         p La literatura académica afirma que las personas que disfrutan de la naturaleza tienden a ser más positivas en su comportamiento y tienen menos ansiedad, agresividad o mal humor, así como también se demuestra que adquieren mejor control de sus impulsos. 
         p Esto puede ser importante dado que con los procesos de encierro vividos por la pandemia se ha generado un alto índice de enfermedades mentales, por lo que las personas que ejercen actividades al aire libre sufren menos estrés y depresión, según dichos estudios, debido a que demuestran un alto nivel de resiliencia.
-      .col-lg-4.col-md-10.mb-4
+      .col-lg-4.col-md-10.mb-4(data-aos="fade-down-left")
         img(src='@/assets/curso/tema2/imagen3.png')
     .row.justify-content-center
-      .col-lg-4.col-md-10.mb-4.mb-4.order-lg-first
+      .col-lg-4.col-md-10.mb-4.mb-4.order-lg-first(data-aos="fade-down-right")
         img(src='@/assets/curso/tema2/imagen4.jpg')
-      .col-lg-8.col-md-12.mb-4.order-first
+      .col-lg-8.col-md-12.mb-4.order-first(data-aos="fade-down-left")
         p Desde esta perspectiva, para el guía en formación y después como profesional, conocer del poder restaurador del juego en la naturaleza le hace un veedor de su propia salud y de  la de otros, quien se cerciora de cumplir con las exigencias de acuerdo con las condiciones técnicas incluidas en la normatividad sobre salud pública en todos los contextos donde desarrolle su actividad profesional.
         p Un ejemplo claro actual es el uso de mascarillas o tapabocas y el distanciamiento a 1 o 2 metros de otras personas con las que no convivan, lavarse las manos con agua y jabón o el uso de un desinfectante de manos hace parte del protocolo en cualquiera de las actividades.  ¡Estar al aire libre…es vivir!
         .tarjeta.fondo-15.p-3.mb-5
@@ -67,9 +67,9 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Manual de procedimientos para organizar salidas de campo
-                  p Como parte de su aprendizaje autónomo se invita a revisar el documento ¨Manual de procedimientos para organizar salidas de campo¨, que se encuentra en la sección del material complementario.
+                  p Como parte de su aprendizaje autónomo se invita a revisar el documento "Manual de procedimientos para organizar salidas de campo", que se encuentra en la sección del material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Manual-de-procedimientos-para-organizar-salidas-de-campo.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 </template>
