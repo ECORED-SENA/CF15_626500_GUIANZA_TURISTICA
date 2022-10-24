@@ -248,7 +248,7 @@ export default {
       tema: 'Menú y cocina de campamento',
       referencia:
         'SENA. (2017). Manual acampar conservando. SENA Regional Caldas. Centro de Comercio y Servicios.',
-      tipo: 'Maniual-PDF',
+      tipo: 'Manual-PDF',
       descarga: '/downloads/manual_acampar_conservando.pdf',
     },
   ],
