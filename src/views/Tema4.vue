@@ -7,14 +7,14 @@
         span 4
       h1 Carpas
     .row.justify-content-center
-      .col-lg-8.col-md-12(data-aos="fade-down-right")
+      .col-lg-8.col-md-12.order-1.order-lg-0(data-aos="fade-down-right")
         .cajon.fondocuadrado1.p-4.fondo-4
           p.text-bold.mb-0 Es importante partir del concepto de la palabra "carpa", que es una tienda de campaña con paredes, techo, suelo, ventanas y puertas con cremallera; otra definición dice que está compuesta por materiales ligeros, resistentes e impermeables, que es un artefacto o accesorio portátil donde se acampa, de fácil instalación, por lo que en general la carpa es el elemento principal e indispensable en un campamento.
         p.mt-4(data-aos="fade-down-left") Para elegir una carpa es necesario tener en cuenta las características climatológicas de los lugares que frecuenta acampar y el tamaño de esta dependerá del número de personas que acamparán.  Los aspectos más relevantes para seleccionar una carpa están relacionados con la calidad, el tamaño, la facilidad para armarla, desarmarla y para transportarla entre lugares.
         p(data-aos="fade-down-right") Las partes de una carpa se describen en un contenido más adelante, pero el más clásico es el tipo de carpa con techo a dos aguas, este es uno de las más conocidos en campismo, hay que destacar que actualmente existen diferentes tipos con diversas estructuras y protocolos de armado, por lo que todas  las partes o piezas de la carpa se describen a nivel general, para que al momento de armarla con su equipo de trabajo o con otros pueda transmitir estos conocimientos de manera fácil y amigable:
-      .col-lg-4.col-md-12(data-aos="fade-down-right")
+      .col-lg-4.col-8.order-0.order-lg-1.mb-4(data-aos="fade-down-right")
         img(src='@/assets/curso/tema4/figura1.png')
-      ImagenInfografica.color-acento-botones.my-5(data-aos="fade-down-left")
+      ImagenInfografica.color-acento-botones.my-5.order-2(data-aos="fade-down-left")
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/tema4/figura2.svg', alt='Carpas')
@@ -130,21 +130,23 @@
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen12.png')
+
     .row.fondo-23.mostrar1(data-aos="fade")
       .col-12
-        .row.align-items-center
-          .col-lg-8.pt-5.ps-3.ps-xl-5
-            h4.mt-5.pt-4 ¡Importante!
-            p.mb-5 El tipo de carpa deberá ser elegido según el contexto y las condiciones climáticas en las cuales el campista vaya a hacer uso de esta en determinado campamento. Las carpas se clasifican en diferentes tipos de acuerdo con sus usos, los materiales, las estructuras, las marcas, los tamaños y los tipos a utilizar en un campamento, por lo que se recomienda hacer la valoración técnica para su correcta selección.
-          .col-lg-4
+        .row.justify-conytent-between
+          .col-xxl-8.col-xl-7.col-lg-9.pt-5.px-4
+            h4.mt-5.pt-3.pt-xl-5 ¡Importante!
+            p.mb-4.pb-2.pb-xl-4 El tipo de carpa deberá ser elegido según el contexto y las condiciones climáticas en las cuales el campista vaya a hacer uso de esta en determinado campamento. Las carpas se clasifican en diferentes tipos de acuerdo con sus usos, los materiales, las estructuras, las marcas, los tamaños y los tipos a utilizar en un campamento, por lo que se recomienda hacer la valoración técnica para su correcta selección.
+          .col-xxl-4.col-xl-4.col-lg-auto
+            
     .row.mostrar2.justify-content-center
-      .col-10.correrabajo(data-aos="fade-up-right")
+      .col-8.correrabajo(data-aos="fade-up-right")
         img(src='@/assets/curso/tema4/imagen13.png')
       .col-12(data-aos="fade")
         .row.justify-content-center.py-5.fondo-10
           .col-12
-            h4 ¡Importante!
-            p El tipo de carpa deberá ser elegido según el contexto y las condiciones climáticas en las cuales el campista vaya a hacer uso de esta en determinado campamento. Las carpas se clasifican en diferentes tipos de acuerdo con sus usos, los materiales, las estructuras, las marcas, los tamaños y los tipos a utilizar en un campamento, por lo que se recomienda hacer la valoración técnica para su correcta selección.
+            h4.p ¡Importante!
+            p.px-4 El tipo de carpa deberá ser elegido según el contexto y las condiciones climáticas en las cuales el campista vaya a hacer uso de esta en determinado campamento. Las carpas se clasifican en diferentes tipos de acuerdo con sus usos, los materiales, las estructuras, las marcas, los tamaños y los tipos a utilizar en un campamento, por lo que se recomienda hacer la valoración técnica para su correcta selección.
 </template>
 
 <script>

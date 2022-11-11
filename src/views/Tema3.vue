@@ -35,17 +35,17 @@
         h4.subrayado.ms-0.mb-0 Ventajas del campismo para el ser humano
     SlyderA.fondo-7.my-5(data-aos="fade-down-right").p-5(tipo="b")
       .row
-        .col-lg-4.col-md-12.mb-4.mb-md-0
+        .col-xl-4.col-lg-12.mb-4.mb-md-0
           h4 Escape de la cotidianidad
           p El campismo al ser una práctica que se desarrolla en espacios naturales se convierte en una oportunidad ideal para escapar de las abrumadoras dinámicas urbanas y el conjunto de relaciones complejas que la caracterizan, ya que los escenarios naturales y todas sus cualidades permiten salir de la cotidianidad, ayudando a escapar de ella; incluso, el desconectarse de los dispositivos electrónicos como característica moderna de lo cotidiano, es otro de los grandes beneficios que trae consigo la práctica del campismo, pues posibilita el aprovechamiento del tiempo libre, mediante la creatividad para realizar actividades alternas de mayor impacto, logrando acrecentar a su vez la interacción entre las personas.
-        .col-lg-8.col-md-12
+        .col-xl-8.col-lg-12
           figure
             img(src='@/assets/curso/tema3/imagen2.png')
       .row
-        .col-lg-4.col-md-12.mb-4.mb-md-0
+        .col-xl-4.col-lg-12.mb-4.mb-md-0
           h4 Salud para el cuerpo
           p El campismo generalmente se realiza en lugares donde la presencia de oxígeno y aire puro es una constante, lo que permite que la salud de los que desarrollan esta práctica resulte beneficiada, siendo las vías respiratorias las primeras en sentir dicho cambio, pues la contaminación propia de lo urbano es contrarrestada por la realización de actividad física al aire libre y una alimentación más saludable durante el campamento.
-        .col-lg-8.col-md-12
+        .col-xl-8.col-lg-12
           figure
             img(src='@/assets/curso/tema3/imagen3.png')
     p.my-5(data-aos="fade-down-left") Existe otro factor importante, se ofrecen diferentes tipos de campamentos de acuerdo con la organización y características definidas con precisión, según el propósito, los equipos, las actividades y las pautas a seguir para el óptimo desarrollo de este. Algunos son:
@@ -57,16 +57,37 @@
     .row.justify-content-center
       .col-lg-8.col-md-12.mb-4(data-aos="fade-down-right")
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Campamentos según el propósito") Este tipo de campamentos son realizados con el fin de llevar a cabo una actividad concreta, bien sea de índole investigativo, educativo, personal, familiar o cultural.
+          row(numero="1" titulo="Campamentos según el propósito") 
+            .row
+              .col-7 
+                p Este tipo de campamentos son realizados con el fin de llevar a cabo una actividad concreta, bien sea de índole investigativo, educativo, personal, familiar o cultural.
+              .col-5
+                img(src='@/assets/curso/tema3/imagen15.jpg')
+          row(numero="2" titulo="Campamento educativo para la investigación") 
+            .row
+              .col-7 
+                p Es un campamento dirigido a personas con un propósito definido para ser evaluado, que permite que el campista explore la naturaleza desde el componente biológico y ecosistémico.
+              .col-5
+                img(src='@/assets/curso/tema3/imagen6.png')
+          row(numero="3" titulo="Campamento espontáneo") 
+            .row
+              .col-7 
+                p Es un campamento que no presenta un montaje bien planificado, se recurre a la experiencia del campista y a los protocolos inmediatos que este pueda aplicar en el momento del montaje.
+              .col-5
+                img(src='@/assets/curso/tema3/imagen7.png')
           
-          p(numero="2" titulo="Campamento educativo para la investigación") Es un campamento dirigido a personas con un propósito definido para ser evaluado, que permite que el campista explore la naturaleza desde el componente biológico y ecosistémico. 
-          
-          p(numero="3" titulo="Campamento espontáneo") Es un campamento que no presenta un montaje bien planificado, se recurre a la experiencia del campista y a los protocolos inmediatos que este pueda aplicar en el momento del montaje.
-          
-          p(numero="4" titulo="Campamento recreativo") Este campamento es desarrollado por un grupo bien sea de amigos o familiares, los cuales acuerdan previamente el lugar a visitar, la clase de equipos necesarios para la actividad y el tiempo del cual disponen para acampar.
-
-          p(numero="5" titulo="Campamento según la duración") Este tipo de campamento hace referencia al tiempo o la duración de este, requiriendo como mínimo una noche de camping.
-
+          row(numero="4" titulo="Campamento recreativo") 
+            .row
+              .col-7 
+                p Este campamento es desarrollado por un grupo bien sea de amigos o familiares, los cuales acuerdan previamente el lugar a visitar, la clase de equipos necesarios para la actividad y el tiempo del cual disponen para acampar.
+              .col-5
+                img(src='@/assets/curso/tema3/imagen8.png')
+          row(numero="5" titulo="Campamento según la duración") 
+            .row
+              .col-7 
+                p Este tipo de campamento hace referencia al tiempo o la duración de este, requiriendo como mínimo una noche de camping.
+              .col-5
+                img(src='@/assets/curso/tema3/imagen9.png')
       .col-lg-4.col-md-8.col-sm-10.col-12.mb-4(data-aos="fade-down-left")
         img(src="@/assets/curso/tema3/imagen4.png")
     .row.justify-content-center
@@ -74,15 +95,36 @@
         img(src="@/assets/curso/tema3/imagen5.png")
       .col-lg-8.col-md-12.mb-4.order-first(data-aos="fade-down-right")
         LineaTiempoD.color-secundario
-          p(numero="6" titulo="Campamento fijo") Se caracteriza por contar con una infraestructura permanente: duchas, letrinas, agua potable, cocina, parqueaderos, entre otros, siendo el campista quien decide la cantidad de tiempo que desea permanecer.
-          
-          p(numero="7" titulo="Campamento volante o rodante") Conocido también como campamento itinerante, de travesía o tipo expedición. Se caracteriza por el desplazamiento del campista haciendo uso de sus propios medios, llevando su equipo, alimentos y materiales.
-          
-          p(numero="8" titulo="Campamentos según el lugar y los servicios disponibles") Este tipo de campamentos se identifican por la cantidad y disponibilidad de servicios que se ofrecen.
-          
-          p(numero="9" titulo="Campamento libre") Se caracteriza por ser instalado libremente en el lugar que se desea y de forma gratuita, razón por la cual no cuenta ni con servicios, ni con infraestructura y es el campista el encargado de llevar los recursos necesarios y quien decide el tiempo de estadía.
-
-          p(numero="10" titulo="Campamento privado") Este tipo de campamento es situado en un lugar privado donde solo se permite la visita de los organizadores o campistas, cuenta con todos los servicios necesarios.
+          row(numero="6" titulo="Campamento fijo") 
+            .row
+              .col-7 
+                p Se caracteriza por contar con una infraestructura permanente: duchas, letrinas, agua potable, cocina, parqueaderos, entre otros, siendo el campista quien decide la cantidad de tiempo que desea permanecer.
+              .col-5
+                img(src='@/assets/curso/tema3/imagen10.png')          
+          row(numero="7" titulo="Campamento volante o rodante") 
+            .row
+              .col-7 
+                p Conocido también como campamento itinerante, de travesía o tipo expedición. Se caracteriza por el desplazamiento del campista haciendo uso de sus propios medios, llevando su equipo, alimentos y materiales.
+              .col-5
+                img(src='@/assets/curso/tema3/imagen11.png')          
+          row(numero="8" titulo="Campamentos según el lugar y los servicios disponibles") 
+            .row
+              .col-7 
+                p Este tipo de campamentos se identifican por la cantidad y disponibilidad de servicios que se ofrecen.
+              .col-5
+                img(src='@/assets/curso/tema3/imagen12.png')
+          row(numero="9" titulo="Campamento libre") 
+            .row
+              .col-7 
+                p Se caracteriza por ser instalado libremente en el lugar que se desea y de forma gratuita, razón por la cual no cuenta ni con servicios, ni con infraestructura y es el campista el encargado de llevar los recursos necesarios y quien decide el tiempo de estadía.
+              .col-5
+                img(src='@/assets/curso/tema3/imagen13.png')
+          row(numero="10" titulo="Campamento privado") 
+            .row
+              .col-7 
+                p Este tipo de campamento es situado en un lugar privado donde solo se permite la visita de los organizadores o campistas, cuenta con todos los servicios necesarios.
+              .col-5
+                img(src='@/assets/curso/tema3/imagen14.png')
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-left")
       h2 3.2 Procedimientos de montaje de campamentos
@@ -141,72 +183,52 @@
     figure.mb-5(data-aos="fade-down-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/epZC1UKYroo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+    p.my-5 Otro elemento importante que debe conocer es cómo preparar el terreno para realizar una actividad de camping, por lo que se invita a revisar la siguiente historia:
     .tarjeta.fondo-21.px-4.pt-4.mb-0(data-aos="fade-down-left")
       //- LineaTiempoC debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- text-small se usa para que los títulos sean mas pequeños
       LineaTiempoC.color-acento-botones(text-small)
         .row.justify-content-center(titulo="1")
-          .col-lg-6.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig1-1.svg')
-          .col-lg-6.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig1-2.svg')
+          .col-12.pb-0
+            img.mb-0(src='@/assets/curso/tema3/fig1.svg')
 
         .row.justify-content-center(titulo="2")
-          .col-lg-6.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig2-1.svg')
-          .col-lg-6.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig2-2.svg')
-
+          .col-12.pb-0
+            img.mb-0(src='@/assets/curso/tema3/fig2.svg')
 
         .row.justify-content-center(titulo="3")
-          .col-lg-6.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig3-1.svg')
-          .col-lg-6.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig3-2.svg')
+          .col-12.pb-0
+            img.mb-0(src='@/assets/curso/tema3/fig3.svg')
 
         .row.justify-content-center(titulo="4")
-          .col-lg-6.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig4-1.svg')
-          .col-lg-6.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig4-2.svg')
+          .col-12.pb-0
+            img.mb-0(src='@/assets/curso/tema3/fig4.svg')
 
         .row(titulo="5")
-          .col-lg-6.col-md-12.pb-0.correrabajo2
-            img.mb-0(src='@/assets/curso/tema3/fig5-1.svg')
-          .col-lg-6.col-md-12.pb-0.correrabajo2
-            img.mb-0(src='@/assets/curso/tema3/fig5-2.svg')
+          .col-12.pb-0
+            img.mb-0(src='@/assets/curso/tema3/fig5.svg')
 
         .row(titulo="6")
-          .col-lg-4.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig6-1.svg')
-          .col-lg-8.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig6-2.svg')
+          .col-12.pb-0
+            img.mb-0(src='@/assets/curso/tema3/fig6.svg')
 
         .row(titulo="7")
-          .col-lg-4.col-md-12.pb-0.correrabajo2
-            img.mb-0(src='@/assets/curso/tema3/fig7-1.svg')
-          .col-lg-8.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig7-2.svg')
+          .col-12.pb-0
+            img.mb-0(src='@/assets/curso/tema3/fig7.png')
 
         .row(titulo="8")
-          .col-lg-6.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig8-1.svg')
-          .col-lg-6.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig8-2.png')
+          .col-12.pb-0
+            img.mb-0(src='@/assets/curso/tema3/fig8.png')
 
         .row(titulo="9")
-          .col-lg-8.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig9-1.png')
-          .col-lg-4.col-md-12.pb-0
-            img.mb-0(src='@/assets/curso/tema3/fig9-2.svg')
+          .col-12.pb-0
+            img.mb-0(src='@/assets/curso/tema3/fig9.png')
 
         .row(titulo="10")
-          .col-lg-8.col-md-12.pb-0.correrabajo1
-            img.mb-0(src='@/assets/curso/tema3/fig10-1.png')
-          .col-lg-4.col-md-12.pb-0
-            img.mb-0(src='@/assets/curso/tema3/fig10-2.svg')
+          .col-12.pb-0
+            img.mb-0(src='@/assets/curso/tema3/fig10.png')
+
     p.my-5(data-aos="fade-down-right") Como se mencionó con anterioridad, seguir las indicaciones para armar una carpa es primordial para asegurar una estadía cómoda y de calidad, por ello es fundamental atender las siguientes orientaciones:  
     .tarjeta.fondo-20.px-5.pt-4.mb-0
 

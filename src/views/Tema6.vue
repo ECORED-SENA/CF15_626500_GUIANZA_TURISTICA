@@ -160,7 +160,7 @@
             i.fas.fa-location-arrow
             | Café instantáneo.
     .row.justify-content-center.my-4
-      .col-lg-8.col-md-12(data-aos="fade-down-right") 
+      .col-lg-8.col-md-12.order-last.order-lg-first(data-aos="fade-down-right") 
         p Alimentos más propensos a contaminarse:  
         ul.lista-ul--color
           li 
@@ -176,12 +176,12 @@
             i.fas.fa-location-arrow
             | Pastelería.
         p Preparaciones de alimentos sin utensilios: harina, aceite, mantequilla, azúcar, sal, maracuyás o naranjas, huevos, maíz pira para palomitas o crispetas, carne, repollo, salchichas o chorizos, plátanos maduros, zanahoria, cebollas, brócolis, berenjenas, espárragos, pimienta, papas, queso, jamón y malvaviscos, palos para chuzos y papel aluminio.
-      .col-lg-4.col-md-8.col-sm-10.col-12(data-aos="fade-down-right")
+      .col-lg-4.col-md-8.col-sm-10.col-12.order-first.order-lg-last.mb-5(data-aos="fade-down-right")
         img(src='@/assets/curso/tema6/imagen6.png')
     .row.align-items-center.mt-5
-      .col-1(data-aos="fade-down-right")
+      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2(data-aos="fade-down-right")
         img.sizeimg2(src='@/assets/curso/tema3/brujula.svg')
-      .col-auto.ps-0.correrizq(data-aos="fade-down-left")
+      .col-xxl-11.col-xl-11.col-lg-11.col-md-11.col-sm-11.col-10.ps-0.correrizq(data-aos="fade-down-left")
         h4.subrayado.ms-0.mb-0 Cocinas, fogones y fogatas
     .row.justify-content-center.my-5
       .col-lg-7.p-4.fondo-33(data-aos="fade-down-right")
@@ -201,10 +201,10 @@
         p.mb-5(data-aos="fade-down-right") La técnica de conservación en ahumado es antigua y debe conocerla para poder aplicarla en cualquier momento o enseñarla en su trabajo como guía turístico.
         .row
           .col-12.fondo-34
-            .row.align-items-center.mt-5.px-5
-              .col-1(data-aos="fade-down-right")
+            .row.align-items-center.mt-5.ps-3.ps-sm-5
+              .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-2.col-2(data-aos="fade-down-right")
                 img.sizeimg2(src='@/assets/curso/tema3/brujula.svg')
-              .col-auto.ps-0.correrizq(data-aos="fade-down-left")
+              .col-xxl-11.col-xl-11.col-lg-11.col-md-11.col-10.col-sm-10.ps-0.correrizq(data-aos="fade-down-left")
                 h4.subrayado.ms-0.mb-0 Métodos de cocina para acampar: el método ahumar
             p.my-5.px-5(data-aos="fade-down-right") Como parte de la planeación de la salida de campo ya tenemos definidos los alimentos que se van a consumir; sin embargo, sí me interesa reforzar algunos conocimientos sobre las diferentes técnicas de cocina que se puede usar en este tipo de eventos, ya que esta debe ser nutritiva, rápida y fácil de preparar.
             PasosA.color-acento-contenido(data-aos="fade-down-left").mb-5.px-5(tipo="n")
@@ -253,7 +253,7 @@
       .col-auto.ps-0.correrizq(data-aos="fade-down-left")
         h4.subrayado.ms-0.mb-0 Limpieza e higiene
     .row.justify-content-center.my-5
-      .col-lg-8.col-md-12(data-aos="fade-down-right")
+      .col-lg-8.col-md-12.mb-4(data-aos="fade-down-right")
         p La preparación de alimentos en un campamento es de especial cuidado, debido a que estos son preparados al aire libre, en un entorno natural expuesto a la contaminación. Por lo anterior, la higiene tanto del área de la cocina, como de los utensilios y de las personas que tienen contacto directo con estos durante la preparación es fundamental.
         .cajon.fondocuadrado1.p-4.fondo-4
           p.text-bold.mb-0 Antes de consumir cualquier alimento que no esté envasado o empaquetado industrialmente debe lavarse muy bien, teniendo presente que así el alimento esté fresco no significa que esté precisamente limpio.

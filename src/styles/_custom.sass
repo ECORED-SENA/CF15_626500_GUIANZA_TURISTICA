@@ -23,10 +23,10 @@
   background-image: url("../assets/curso/portada/fondo-banner-interno.jpg") !important    
 
 .banner-interno__titulo__icono
-  background-color: white !important
+  background-color: #12263F !important
   
 .banner-interno__titulo h2
-  color: white !important 
+  color: #12263F !important 
 
 //banner principal
 .banner-principal__img
@@ -43,12 +43,12 @@
     background-color: #FCC843
   &-3
     background-image: url('../assets/curso/tema1/fondo1.jpg')
-    background-size: 100% 100%
+    background-size: cover
     background-repeat: no-repeat
     background-position: center
     @media (max-width: 1200px)
-      background-size: 100% 100%
-      background-position: right
+      background-size: cover
+      background-position: -250px
     @media (max-width: 991px)
       display: none
   &-4
@@ -79,7 +79,7 @@
     background-color: #FFE6A1
   &-11
     background-image: url('../assets/curso/tema1/fondo5.png')
-    background-size: 100% 100%
+    background-size: cover
     background-repeat: no-repeat
     background-position: left
   &-12
@@ -136,12 +136,13 @@
   &-22
     background-color: #FCE9DF
   &-23
-    background-image: url('../assets/curso/tema4/fondo1.jpg')
-    background-size: 100% 100%
+    background-image: url('../assets/curso/tema4/fondo1.png')
+    background-size: cover
     background-repeat: no-repeat
     background-position: right
-    @media (max-width: 1100px)
-      background-size: 100% 350px
+    @media (max-width: 1200px)
+      background-size: 100% 85%
+
   &-24
     background-image: url('../assets/curso/tema5/fondo1.svg')
     background-size: 100% 100%
@@ -198,9 +199,11 @@
     box-shadow: 4px 4px 4px 4px #e0dddda1
   &-35
     background-image: url('../assets/curso/tema6/fondo3.png')
-    background-size: 100% 100%
+    background-size: 107% 80%
     background-repeat: no-repeat
     background-position: left
+    @media (min-width: 1200px)
+      background-size: 100% 100%
   &-36
     background-image: url('../assets/curso/tema6/fondo4.jpg')
     background-size: 100% 100%
@@ -256,6 +259,15 @@
 .sizeimg
   width: 30%
   height: 30%
+  @media (max-width: 1200px)
+    width: 45%
+    height: 45%
+  @media (max-width: 768px)
+    width: 75%
+    height: 75%
+  @media (max-width: 576px)
+    width: 95%
+    height: 95%
 
 .sizeimg1
   width: 120%
@@ -264,9 +276,11 @@
 .sizeimg2
   width: 30px
   height: 30px
-  margin-: 0 auto
+  margin: 0 auto
   margin-left: 0
-
+  @media (max-width: 576px)
+    width: 50px
+    height: 50px
 // borde superior de tabla
 .bordesup
   border-top: 6px solid #EB6F2D !important
@@ -367,9 +381,9 @@
   margin-left: -50px
   z-index: 999
   @media (max-width: 1400px)
-    margin-left: -40px
+    margin-left: -30px
   @media (max-width: 1200px)
-    margin-left: -25px
+    margin-left: -20px
   @media (max-width: 991px)
     margin-left: -5px
 
@@ -387,10 +401,18 @@
   z-index: 99999 !important
 
 .correrder
-  margin-right: -80px
+  margin-right: -260px
   z-index: 999
+  @media (max-width: 1400px)
+    margin-right: -230px
+  @media (max-width: 1200px)
+    margin-right: -150px
   @media (max-width: 991px)
-    margin-right: -25px
+    margin-right: -160px
+  @media (max-width: 768px)
+    margin-right: -40px
+  @media (max-width: 576px)
+    margin-right: -10px
 
 // cambiar orientación de bloque
 .bloque-texto-g__img.cambioimg

@@ -25,7 +25,7 @@
           .col-auto.px-4.py-3.fondo-12(data-aos="fade-down")
             p.text-bold.text-center.mb-0 Objetivo: interactuar con la comunidad.
     .row.justify-content-center.my-5
-      .col-lg-4.col-md-8.col-sm-10.col-12(data-aos="fade-down")
+      .col-lg-4.col-md-8.col-sm-10.col-12.mb-4(data-aos="fade-down")
         img(src='@/assets/curso/tema2/imagen2.jpg')
       .col-lg-8.col-md-12(data-aos="fade-up")
         p Es así como el 
@@ -55,7 +55,7 @@
         img(src='@/assets/curso/tema2/imagen3.png')
     .row.justify-content-center
       .col-lg-4.col-md-10.mb-4.mb-4.order-lg-first(data-aos="fade-down-right")
-        img(src='@/assets/curso/tema2/imagen4.jpg')
+        img.mostrar1(src='@/assets/curso/tema2/imagen4.jpg')
       .col-lg-8.col-md-12.mb-4.order-first(data-aos="fade-down-left")
         p Desde esta perspectiva, para el guía en formación y después como profesional, conocer del poder restaurador del juego en la naturaleza le hace un veedor de su propia salud y de  la de otros, quien se cerciora de cumplir con las exigencias de acuerdo con las condiciones técnicas incluidas en la normatividad sobre salud pública en todos los contextos donde desarrolle su actividad profesional.
         p Un ejemplo claro actual es el uso de mascarillas o tapabocas y el distanciamiento a 1 o 2 metros de otras personas con las que no convivan, lavarse las manos con agua y jabón o el uso de un desinfectante de manos hace parte del protocolo en cualquiera de las actividades.  ¡Estar al aire libre…es vivir!

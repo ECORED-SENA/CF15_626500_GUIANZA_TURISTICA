@@ -23,33 +23,31 @@
           .col-12.fondo-6.mb-4(data-aos="fade-down-right")
             p.px-4.pt-4 Las salidas de campo son actividades de aprendizaje claves para que los guías de turismo interactúen con la vida al aire libre en contacto con la naturaleza, es por ello que se recomienda realizar una excelente planificación logística que conduzca a tener una actividad bien organizada y con propósitos claros que contribuyan al aprendizaje significativo y al trabajo en equipo, resaltando por supuesto, como una tarea clave para el guía de turismo, la estrategia de  conservación, el cuidado del medio ambiente y los recursos naturales renovables.
             p.px-4.pb-4 Por este motivo, es importante llamar la atención sobre los tres momentos clave en la supervisión logística de una salida de campo:
-          .col-md-8.col-sm-10.col-10(data-aos="fade-down-left")
-            img(src='@/assets/curso/tema1/imagen1.jpg')
     SlyderA.fondo-7.my-5(data-aos="fade-down-right").p-5(tipo="b")
       .row
-        .col-lg-4.col-md-12.mb-4.mb-md-0
+        .col-xl-4.col-lg-12.mb-4.mb-md-0
           h4 Logística de salida de campo
           p El antes es el momento que requiere mayor dedicación porque implica la planeación de la salida de campo, en este punto se requiere hacer una visita previa al sitio donde se va a desarrollar la actividad, por lo que se realiza la elaboración del mapa del recorrido, se establecen las actividades a desarrollar, los lugares donde se hacen las paradas técnicas y todo el prealistamiento que conlleva  una salida de campo.
-        .col-lg-8.col-md-12
+        .col-xl-8.col-lg-12
           figure
             img(src='@/assets/curso/tema1/imagen2.png')
       .row
-        .col-lg-4.col-md-12.mb-4.mb-md-0
+        .col-xl-4.col-lg-12.mb-4.mb-md-0
           h4 Logística de salida de campo
           p En el antes también se tramitan permisos, pólizas, se recomienda avisar a las autoridades competentes, se sugiere tener previsto un plan de prevención y emergencias, alistar un botiquín de primeros auxilios y  revisar la zona de asistencia médica.
-        .col-lg-8.col-md-12
+        .col-xl-8.col-lg-12
           figure
             img(src='@/assets/curso/tema1/imagen3.png')
       .row
-        .col-lg-4.col-md-12.mb-4.mb-md-0
+        .col-xl-4.col-lg-12.mb-4.mb-md-0
           h4 Logística de salida de campo
           p Por otro lado, se alistan todos los equipos necesarios para la salida de campo y desarrollo de actividades (se debe preparar equipos personales que van en la mochila o morral del aprendiz y los equipos grupales para las actividades).
       
-        .col-lg-8.col-md-12
+        .col-xl-8.col-lg-12
           figure
             img(src='@/assets/curso/tema1/imagen4.png')
       .row
-        .col-lg-4.col-md-12.mb-4.mb-md-0
+        .col-xl-4.col-lg-12.mb-4.mb-md-0
           h4 Logística de salida de campo
           ul.lista-ul.mb-3
             li 
@@ -61,26 +59,26 @@
             li 
               i.lista-ul__vineta
               | Se organiza y verifica el programa que se va a ejecutar.
-        .col-lg-8.col-md-12
+        .col-xl-8.col-lg-12
           figure
             img(src='@/assets/curso/tema1/imagen5.png')
       .row
-        .col-lg-4.col-md-12.mb-4.mb-md-0
+        .col-xl-4.col-lg-12.mb-4.mb-md-0
           h4 Logística de salida de campo
           p Luego, en el durante se da comienzo con las recomendaciones generales y protocolos de inicio, saludo de bienvenida y se ejecutan todas las actividades previstas en el antes, dando coherencia a la planeación previamente elaborada por el equipo de trabajo se desarrolla el programa planteado con pertinencia y se aplican los protocolos establecidos, incluyendo los de bioseguridad en caso de Covid u otra novedad biológica, se hace verificación del cumplimiento de actividades a través de una lista de chequeo, se desarrolla lo contenido en el plan de acción y se atienden contingencias si llegasen a presentarse.
-        .col-lg-8.col-md-12
+        .col-xl-8.col-lg-12
           figure
             img(src='@/assets/curso/tema1/imagen6.png')
       .row
-        .col-lg-4.col-md-12.mb-4.mb-md-0
+        .col-xl-4.col-lg-12.mb-4.mb-md-0
           h4 Logística de salida de campo
           p se corrobora la lista de asistentes con sus respectivos documentos, seguridad social,  se toman registros fotográficos y se ejecuta la salida de campo con las respectivas paradas técnicas y se realizan visitas a los lugares de interés que  estén ubicados sobre el recorrido.
           p En este tiempo el grupo debe estar acompañado de un guía líder, un guía rastrillo y el equipo de trabajo, por otro lado, toda salida de campo debe tener apertura por parte del equipo organizador con una carga motivacional para interactuar con la naturaleza y un cierre donde se debe retroalimentar lo vivido y experimentado en la salida de campo.
-        .col-lg-8.col-md-12
+        .col-xl-8.col-lg-12
           figure
             img(src='@/assets/curso/tema1/imagen7.png')
       .row
-        .col-lg-4.col-md-12.mb-4.mb-md-0
+        .col-xl-4.col-lg-12.mb-4.mb-md-0
           h4 Logística de salida de campo
           p Finalmente, se realiza la evaluación de la salida de campo donde se incluyan medidas correctivas y preventivas para próximos encuentros, tales como: acompañamiento y monitoreo.
           ul.lista-ul.mb-3
@@ -94,7 +92,7 @@
             li 
               i.lista-ul__vineta
               | Se actualizan y verifican las bases de datos de los asistentes.
-        .col-lg-8.col-md-12
+        .col-xl-8.col-lg-12
           figure
             img(src='@/assets/curso/tema1/imagen8.png')
     p.my-5(data-aos="fade-down-right") Como parte de su aprendizaje es importante aprender a llenar un modelo de formato para elaborar un plan de acción, instrumento clave para el alistamiento logístico de una salida de campo. El que se presenta a continuación es el desarrollado por el SENA.
@@ -242,7 +240,7 @@
           span o de donde quiera que se desarrolle la actividad de guionaje. 
         p Por esa razón, el concepto desde el Viceministerio de Turismo de Capital Natural se refiere a los stocks o reservas de recursos renovables y no renovables, es decir, a los ecosistemas que se combinan para proporcionar espacios a las personas.
     p.mt-5(data-aos="fade-down-left") Es así como la biodiversidad es la clave de las reservas de capital natural, allí también están los ecosistemas, todos los seres vivos y los valores del mundo natural, de acuerdo con la Coalición del capital natural (<em>The natural capital coalition</em>).  
-    p(data-aos="fade-down-left") Por eso, es necesario implementar y aplicar buenas prácticas turísticas y sostenibles en el desarrollo de salidas de campo como impulso y apoyo a la estrategia de gestión y sostenibilidad, las cuales se pueden enfocar en las siguientes dimensiones:
+    p.mb-5(data-aos="fade-down-left") Por eso, es necesario implementar y aplicar buenas prácticas turísticas y sostenibles en el desarrollo de salidas de campo como impulso y apoyo a la estrategia de gestión y sostenibilidad, las cuales se pueden enfocar en las siguientes dimensiones:
     figure.mb-5(data-aos="fade-down-right")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/M0rGvAnumBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -252,7 +250,7 @@
     
     //-tarjetas slide nuevo
     .row.justify-content-center.mb-5(data-aos="fade")
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
+      .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
         .crd_hover_txt
           .crd_hover_txt--img
             .row.justify-content-center.align-items-center
@@ -262,7 +260,7 @@
           .crd_hover_txt--body.fondo-2.pt-3
             h4.mb-4.text-center Orientar
             p.mb-0.text-center Orientar al turista, viajero o pasajero acerca de los puntos de referencia generales del destino visitado y ofrecer la información que facilite su desenvolvimiento en el lugar.
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
+      .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
         .crd_hover_txt
           .crd_hover_txt--img
             .row.justify-content-center.align-items-center
@@ -273,7 +271,7 @@
             h4.mb-4.text-center Documentar
             p.mb-0.text-center Instruir al turista, viajero o pasajero en forma veraz, acerca de los lugares visitados y su entorno económico, social, cultural y ambiental.
 
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
+      .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
         .crd_hover_txt
           .crd_hover_txt--img
             .row.justify-content-center.align-items-center
@@ -284,7 +282,7 @@
             h4.mb-4.text-center Direccionar
             p.mb-0.text-center Conducir al turista, viajero o pasajero por los atractivos o sitios turísticos, de acuerdo con el plan de viaje o servicios convenidos.
 
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
+      .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
         .crd_hover_txt
           .crd_hover_txt--img
             .row.justify-content-center.align-items-center
@@ -356,13 +354,13 @@
     .row.fondo-11.mostrar1
       .col-12(data-aos="fade-up-right")
         .row.align-items-center.py-5
-          .col-lg-4
-          .col-lg-6
-            h4.mt-5 ¡Importante!
-            p.mb-5 El guía en su gestión se adelanta y sabe actuar ante 
+          .col-lg-5.col-xl-4
+          .col-lg-6.col-xl-7.ps-0.pe-5
+            h4.mt-4 ¡Importante!
+            p.mb-0 El guía en su gestión se adelanta y sabe actuar ante 
               span.text-bold lo inesperado, respondiendo a la pregunta ¿cómo estar preparado frente a lo que no se prevé?
-          .col-lg-1(data-aos="fade-up-left")
-            img.mt-4(src='@/assets/curso/tema1/figura1.svg')
+          .col-lg-1.col-xl-1.ps-0(data-aos="fade-up-left")
+            img.mt-4.me-3.correrizq1(src='@/assets/curso/tema1/figura1.svg')
     .row.mostrar2.justify-content-center
       .col-10.correrabajo(data-aos="fade-up-right")
         img(src='@/assets/curso/tema1/imagen19.png')
