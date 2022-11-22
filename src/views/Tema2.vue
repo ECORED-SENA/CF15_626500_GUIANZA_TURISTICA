@@ -6,6 +6,7 @@
       .titulo-principal__numero.text-white
         span 2
       h1 Salidas de campo
+    p.mb-5 Salir al aire libre ofrece en las personas mucho más que un descanso para la diversión también es bueno para la salud física y mental.
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-down-left")
       .bloque-texto-g__img.cambioimg(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/imagen1.jpg')})`}"
@@ -47,7 +48,7 @@
             img(src='@/assets/curso/tema2/figura2.svg')
     .row.justify-content-center.mt-5
       .col-lg-8.col-md-12.mb-4(data-aos="fade-down-right")
-        p Por otro lado, parte de la experiencia del guía en las salidas de campo es enseñarles a valorar la relación entre el ser humano, la naturaleza,la salud física y mental, por ejemplo, los niños, quienes se expresan al aire libre despertando su deseo de correr y saltar, mejorando la salud y alejándolos de enfermedades. 
+        p Por otro lado, parte de la experiencia del guía en las salidas de campo es enseñarles a valorar la relación entre el ser humano, la naturaleza, la salud física y mental, por ejemplo, los niños, quienes se expresan al aire libre despertando su deseo de correr y saltar, mejorando la salud y alejándolos de enfermedades. 
         p Es importante recordar que el aire libre y el aprendizaje mediado por el juego promueven la curiosidad, la creatividad y el pensamiento crítico, convirtiendo este espacio en un aula viva donde se aprende de forma ágil. 
         p La literatura académica afirma que las personas que disfrutan de la naturaleza tienden a ser más positivas en su comportamiento y tienen menos ansiedad, agresividad o mal humor, así como también se demuestra que adquieren mejor control de sus impulsos. 
         p Esto puede ser importante dado que con los procesos de encierro vividos por la pandemia se ha generado un alto índice de enfermedades mentales, por lo que las personas que ejercen actividades al aire libre sufren menos estrés y depresión, según dichos estudios, debido a que demuestran un alto nivel de resiliencia.
@@ -58,7 +59,7 @@
         img.mostrar1(src='@/assets/curso/tema2/imagen4.jpg')
       .col-lg-8.col-md-12.mb-4.order-first(data-aos="fade-down-left")
         p Desde esta perspectiva, para el guía en formación y después como profesional, conocer del poder restaurador del juego en la naturaleza le hace un veedor de su propia salud y de  la de otros, quien se cerciora de cumplir con las exigencias de acuerdo con las condiciones técnicas incluidas en la normatividad sobre salud pública en todos los contextos donde desarrolle su actividad profesional.
-        p Un ejemplo claro actual es el uso de mascarillas o tapabocas y el distanciamiento a 1 o 2 metros de otras personas con las que no convivan, lavarse las manos con agua y jabón o el uso de un desinfectante de manos hace parte del protocolo en cualquiera de las actividades.  ¡Estar al aire libre…es vivir!
+        p Un ejemplo claro actual es el uso de mascarillas o tapabocas y el distanciamiento a 1 o 2 metros de otras personas con las que no convivan, lavarse las manos con agua y jabón o el uso de un desinfectante de manos hace parte del protocolo en cualquiera de las actividades.  ¡Estar al aire libre… es vivir!
         .tarjeta.fondo-15.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-3.col-lg-2

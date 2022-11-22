@@ -59,34 +59,34 @@
         LineaTiempoD.color-secundario
           row(numero="1" titulo="Campamentos según el propósito") 
             .row
-              .col-7 
+              .col-sm-7.col-12 
                 p Este tipo de campamentos son realizados con el fin de llevar a cabo una actividad concreta, bien sea de índole investigativo, educativo, personal, familiar o cultural.
-              .col-5
+              .col-sm-5.col-12
                 img(src='@/assets/curso/tema3/imagen15.jpg')
           row(numero="2" titulo="Campamento educativo para la investigación") 
             .row
-              .col-7 
+              .col-sm-7.col-12 
                 p Es un campamento dirigido a personas con un propósito definido para ser evaluado, que permite que el campista explore la naturaleza desde el componente biológico y ecosistémico.
-              .col-5
+              .col-sm-5.col-12
                 img(src='@/assets/curso/tema3/imagen6.png')
           row(numero="3" titulo="Campamento espontáneo") 
             .row
-              .col-7 
+              .col-sm-7.col-12 
                 p Es un campamento que no presenta un montaje bien planificado, se recurre a la experiencia del campista y a los protocolos inmediatos que este pueda aplicar en el momento del montaje.
-              .col-5
+              .col-sm-5.col-12
                 img(src='@/assets/curso/tema3/imagen7.png')
           
           row(numero="4" titulo="Campamento recreativo") 
             .row
-              .col-7 
+              .col-sm-7.col-12 
                 p Este campamento es desarrollado por un grupo bien sea de amigos o familiares, los cuales acuerdan previamente el lugar a visitar, la clase de equipos necesarios para la actividad y el tiempo del cual disponen para acampar.
-              .col-5
+              .col-sm-5.col-12
                 img(src='@/assets/curso/tema3/imagen8.png')
           row(numero="5" titulo="Campamento según la duración") 
             .row
-              .col-7 
-                p Este tipo de campamento hace referencia al tiempo o la duración de este, requiriendo como mínimo una noche de camping.
-              .col-5
+              .col-sm-7.col-12 
+                p Este tipo de campamento hace referencia al tiempo o la duración de este, requiriendo como mínimo una noche de <em>camping</em>.
+              .col-sm-5.col-12
                 img(src='@/assets/curso/tema3/imagen9.png')
       .col-lg-4.col-md-8.col-sm-10.col-12.mb-4(data-aos="fade-down-left")
         img(src="@/assets/curso/tema3/imagen4.png")
@@ -97,33 +97,33 @@
         LineaTiempoD.color-secundario
           row(numero="6" titulo="Campamento fijo") 
             .row
-              .col-7 
+              .col-sm-7.col-12 
                 p Se caracteriza por contar con una infraestructura permanente: duchas, letrinas, agua potable, cocina, parqueaderos, entre otros, siendo el campista quien decide la cantidad de tiempo que desea permanecer.
-              .col-5
+              .col-sm-5.col-12
                 img(src='@/assets/curso/tema3/imagen10.png')          
           row(numero="7" titulo="Campamento volante o rodante") 
             .row
-              .col-7 
+              .col-sm-7.col-12 
                 p Conocido también como campamento itinerante, de travesía o tipo expedición. Se caracteriza por el desplazamiento del campista haciendo uso de sus propios medios, llevando su equipo, alimentos y materiales.
-              .col-5
+              .col-sm-5.col-12
                 img(src='@/assets/curso/tema3/imagen11.png')          
           row(numero="8" titulo="Campamentos según el lugar y los servicios disponibles") 
             .row
-              .col-7 
+              .col-sm-7.col-12 
                 p Este tipo de campamentos se identifican por la cantidad y disponibilidad de servicios que se ofrecen.
-              .col-5
+              .col-sm-5.col-12
                 img(src='@/assets/curso/tema3/imagen12.png')
           row(numero="9" titulo="Campamento libre") 
             .row
-              .col-7 
+              .col-sm-7.col-12 
                 p Se caracteriza por ser instalado libremente en el lugar que se desea y de forma gratuita, razón por la cual no cuenta ni con servicios, ni con infraestructura y es el campista el encargado de llevar los recursos necesarios y quien decide el tiempo de estadía.
-              .col-5
+              .col-sm-5.col-12
                 img(src='@/assets/curso/tema3/imagen13.png')
           row(numero="10" titulo="Campamento privado") 
             .row
-              .col-7 
+              .col-sm-7.col-12 
                 p Este tipo de campamento es situado en un lugar privado donde solo se permite la visita de los organizadores o campistas, cuenta con todos los servicios necesarios.
-              .col-5
+              .col-sm-5.col-12
                 img(src='@/assets/curso/tema3/imagen14.png')
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-left")
@@ -153,7 +153,7 @@
               p Saber cómo, dónde,  cuáles tipos de fogatas hay y cómo construir una según las condiciones del grupo.
             .tarjeta.fondo-20.p-3(x="40%" y="6.5%" numero="+")
               .h5.mb-2 El morral
-              p.mb-0 Equipo completo para  un camping.
+              p.mb-0 Equipo completo para  un <em>camping</em>.
               p.mb-0 Cuáles elementos son prioritarios y su ubicación.
               p.mb-0 Elementos para dormir.      
             .tarjeta.fondo-20.p-3(x="47%" y="50%" numero="+")
@@ -247,7 +247,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-1.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 1:
-                p sacar la carpa, desenrollarla y extender los vientos de esta sobre el suelo.
+                p Sacar la carpa, desenrollarla y extender los vientos de esta sobre el suelo.
 
 
         .row.justify-content-center(titulo="3")
@@ -257,7 +257,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-2.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 2:
-                p despejar el lugar, dejándolo limpio de raíces, ramas, malezas, piedras, basuras.
+                p Despejar el lugar, dejándolo limpio de raíces, ramas, malezas, piedras, basuras.
 
         .row.justify-content-center(titulo="4")
           .col-11.ps-4
@@ -266,7 +266,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-3.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 3:
-                p tener en cuenta que la puerta de la carpa deberá ir ubicada al lado contrario de donde sopla el viento, lo anterior, con el propósito de cortar las corrientes de este, evitando daños sobre las carpas y afectación a los campistas. 
+                p Tener en cuenta que la puerta de la carpa deberá ir ubicada al lado contrario de donde sopla el viento, lo anterior, con el propósito de cortar las corrientes de este, evitando daños sobre las carpas y afectación a los campistas. 
 
         .row(titulo="5")
           .col-11.ps-4
@@ -275,7 +275,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-4.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 4:
-                p ubicar la carpa de manera que los rayos del sol impacten la misma en horas de la mañana, secando la humedad generada durante la noche. El resto del día es ideal que la carpa esté ubicada bajo la sombra para evitar el calor que podría encerrarse en ella. 
+                p Ubicar la carpa de manera que los rayos del sol impacten la misma en horas de la mañana, secando la humedad generada durante la noche. El resto del día es ideal que la carpa esté ubicada bajo la sombra para evitar el calor que podría encerrarse en ella. 
 
         .row(titulo="6")
           .col-11.ps-4
@@ -284,7 +284,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-5.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 5:
-                p extender la carpa de tal forma que no quede ninguna arruga. Asegúrese que al momento de armar la carpa las cremalleras tanto de la puerta como del mosquitero estén cerradas, ya que si se arma con las cremalleras abiertas va a ser muy difícil cerrarlas e incluso, podrían no cerrar. 
+                p Extender la carpa de tal forma que no quede ninguna arruga. Asegúrese que al momento de armar la carpa las cremalleras tanto de la puerta como del mosquitero estén cerradas, ya que si se arma con las cremalleras abiertas va a ser muy difícil cerrarlas e incluso, podrían no cerrar. 
 
         .row(titulo="7")
           .col-11.ps-4
@@ -293,7 +293,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-6.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 6:
-                p clavar las estacas con suavidad, haciendo un pequeño ángulo de 45 grados hacia la parte interna de la carpa por debajo del piso de esta, ya que si se clavan de forma perpendicular en la tierra se soltarían con facilidad.  
+                p Clavar las estacas con suavidad, haciendo un pequeño ángulo de 45 grados hacia la parte interna de la carpa por debajo del piso de esta, ya que si se clavan de forma perpendicular en la tierra se soltarían con facilidad.  
 
         .row(titulo="8")
           .col-11.ps-4
@@ -302,7 +302,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-7.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 7:
-                p armar los parantes y la cumbrera sobre el piso y dejarlos preparados para usarlos posteriormente. 
+                p Armar los parantes y la cumbrera sobre el piso y dejarlos preparados para usarlos posteriormente. 
 
         .row(titulo="9")
           .col-11.ps-4 
@@ -313,7 +313,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-8.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 8:
-                p tensar los vientos esquineros, en diagonal y con las cremalleras cerradas, luego colocar los vientos secundarios, evitando siempre tensar demasiado. 
+                p Tensar los vientos esquineros, en diagonal y con las cremalleras cerradas, luego colocar los vientos secundarios, evitando siempre tensar demasiado. 
         .row(titulo="10")
           .col-11.ps-4
             .row.align-items-center.justify-content-center
@@ -321,7 +321,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-9.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 9:
-                p colocar el sobretecho o sobrecarpa, tensando los vientos.  
+                p Colocar el sobretecho o sobrecarpa, tensando los vientos.  
         .row(titulo="11")
           .col-11.ps-4
             .row.align-items-center.justify-content-center
@@ -329,7 +329,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-10.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 10:
-                p colocar los vientos principales siempre en diagonal y luego los vientos frontales y traseros, sin tensar demasiado, recuerde la posición de las estacas a 45 grados.   
+                p Colocar los vientos principales siempre en diagonal y luego los vientos frontales y traseros, sin tensar demasiado, recuerde la posición de las estacas a 45 grados.   
         .row(titulo="12")
           .col-11.ps-4
             .row.align-items-center.justify-content-center
@@ -337,7 +337,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-11.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 11:
-                p tensar los vientos, controlando las arrugas del sobretecho.  
+                p Tensar los vientos, controlando las arrugas del sobretecho.  
         .row(titulo="13")
           .col-11.ps-4
             .row.align-items-center.justify-content-center
@@ -345,7 +345,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-12.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 12:
-                p observar el interior de la carpa, en el caso de estar bien armada, no deberá tener en su interior arrugas, ni deformidades; y en el caso de tenerlas, controlarlas con los vientos.  
+                p Observar el interior de la carpa, en el caso de estar bien armada, no deberá tener en su interior arrugas, ni deformidades; y en el caso de tenerlas, controlarlas con los vientos.  
         .row(titulo="14")
           .col-11.ps-4
             .row.align-items-center.justify-content-center
@@ -353,7 +353,7 @@
                 img.mb-0(src='@/assets/curso/tema3/fig5-13.png')
               .col-lg-7.col-md-12.fondo-22.p-2.p-md-5.mb-4
                 h4 Paso 13:
-                p dejar la entrada de la carpa abierta para airearla, recomendando cerrarla en horas de la tarde para evitar los insectos.
+                p Dejar la entrada de la carpa abierta para airearla, recomendando cerrarla en horas de la tarde para evitar los insectos.
         .row(titulo="15")
           .col-11.ps-4
             .row.align-items-center.justify-content-center
@@ -372,7 +372,7 @@
               .row.justify-content-center.align-items-center
                 .col.mb-3.mb-sm-0.ps-5.ps-lg-0
                   h3.mb-1 Las técnicas de campismo
-                  p Se invita a leer el documento ¨Las técnicas de campismo¨, que le ayudará a afianzar su conocimiento sobre el tema.
+                  p Se invita a leer el documento "Las técnicas de campismo", que le ayudará a afianzar su conocimiento sobre el tema.
                 .col-sm-auto.pe-4.ps-5.ps-sm-0.mb-4.mb-sm-0
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/tecnicas_de_campismo.pdf')" target="_blank")
                     span Descargar

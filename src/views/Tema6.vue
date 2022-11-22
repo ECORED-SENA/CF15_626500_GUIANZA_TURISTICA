@@ -241,7 +241,7 @@
 
               .row.align-items-center
                 .col-md-8.mb-4.mb-md-0
-                  p este es uno de los métodos más conocidos, gracias a su función de erradicar total o parcialmente las enzimas, toxinas y microrganismos, cuya aparición podría alterar el alimento e incluso volverlo no apto para el consumo.
+                  p Este es uno de los métodos más conocidos, gracias a su función de erradicar total o parcialmente las enzimas, toxinas y microorganismos, cuya aparición podría alterar el alimento e incluso volverlo no apto para el consumo.
                   p Se realiza en un fogón, haciendo una construcción de madera básica, que le permita colgar la carne finamente cortada, con el fin de que esta reciba el humo, puede usar hojas como combustible debido a la gran cantidad de humo que generan.
                 .col-md-4
                   figure
@@ -259,7 +259,7 @@
           p.text-bold.mb-0 Antes de consumir cualquier alimento que no esté envasado o empaquetado industrialmente debe lavarse muy bien, teniendo presente que así el alimento esté fresco no significa que esté precisamente limpio.
       .col-lg-4.col-md-12(data-aos="fade-down-right")
         img(src='@/assets/curso/tema6/imagen12.png')
-    p.mb-5(data-aos="fade-down-left") Adicionalmente,, las personas que van a establecer contacto directo con los alimentos deben seguir en la medida de lo posible una serie de recomendaciones en cuanto a la higiene, tales como:
+    p.mb-5(data-aos="fade-down-left") Adicionalmente, las personas que van a establecer contacto directo con los alimentos deben seguir en la medida de lo posible una serie de recomendaciones en cuanto a la higiene, tales como:
     .row.fondo-35.mostrar1
       .col-12(data-aos="fade-up-right")
         .row.align-items-center.py-5
@@ -364,8 +364,8 @@
                 img(src='@/assets/curso/tema6/deflector.svg')
               .col-8
                 h4 Fogata tipo deflector
-                p Esta fogata es útil sobre todo para calentar la carpa, se debe usar troncos de buen grosor, de unos 20 cm aproximadamente, dos de estos se clavan un poco inclinados hacia atrás y sobre ellos, se colocan los otros uno sobre el otro hasta formar la espalda del ¨reflector¨ el cual apuntará hacia la carpa o lo que se dese calentar.
-                p A cada lado se coloca dos de los troncos más gruesos y en medio de esta pequeña estructura se enciente una fogata en pirámide, es de aclarar que una fogata funciona mejor contra el viento.          
+                p Esta fogata es útil sobre todo para calentar la carpa, se debe usar troncos de buen grosor, de unos 20 cm aproximadamente, dos de estos se clavan un poco inclinados hacia atrás y sobre ellos, se colocan los otros uno sobre el otro hasta formar la espalda del "reflector" el cual apuntará hacia la carpa o lo que se desee calentar.
+                p A cada lado se coloca dos de los troncos más gruesos y en medio de esta pequeña estructura se enciende una fogata en pirámide, es de aclarar que una fogata funciona mejor contra el viento.          
     .row.justify-content-center
       .col-10(data-aos="fade-down-right")
         .tarjeta.fondo-15.p-1.my-5
@@ -376,7 +376,7 @@
               .row.justify-content-center.align-items-center
                 .col.mb-3.mb-sm-0.ps-5.ps-lg-0
                   h3.mb-1 Manual para acampar conservando 
-                  p Es de vital importancia aprender a acampar conservando el medio ambiente, porque de esto depende que las nuevas generaciones puedan disfrutar de la naturaleza que hoy disfruta, por lo que se invita a revisar el documento del SENA sobre el tema ¨Manual para acampar conservando¨.
+                  p Es de vital importancia aprender a acampar conservando el medio ambiente, porque de esto depende que las nuevas generaciones puedan disfrutar de la naturaleza que hoy disfruta, por lo que se invita a revisar el documento del SENA sobre el tema "Manual para acampar conservando".
                 .col-sm-auto.pe-4.ps-5.ps-sm-0.mb-4.mb-sm-0
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/manual_acampar_conservando.pdf')" target="_blank")
                     span Descargar

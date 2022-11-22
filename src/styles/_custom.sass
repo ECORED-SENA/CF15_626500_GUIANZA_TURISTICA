@@ -369,7 +369,6 @@
 
 .correrizq
   margin-left: -50px
-  z-index: 999
   @media (max-width: 1400px)
     margin-left: -40px
   @media (max-width: 1200px)
@@ -442,9 +441,17 @@
 .linea-tiempo-d__item--selected .tarjeta--gris
   background-color: #E2E8E0 !important
 
+.linea-tiempo-d__item__content__title 
+  display: flex
+  align-items: center
+  height: 40px
+  cursor: pointer
+  @media (max-width: 576px)
+    height: 80px
+
 //.cambiocolor
 //  .linea-tiempo-d__item .tarjeta--gris
-//    background-color: #F6F6F6
+//    background-color: #be9d9d
 
 .linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   color: #12263F
@@ -559,3 +566,7 @@
 .fa-location-arrow:before
   content: "\f124"
   color: #EB6F2D
+
+.img-infografica__card
+  @media (max-width: 576px)
+    width: 90%

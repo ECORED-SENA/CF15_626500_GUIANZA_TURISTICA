@@ -20,31 +20,31 @@
             img(src='@/assets/curso/tema4/figura2.svg', alt='Carpas')
         .tarjeta.fondo-20.p-3(x="67%" y="90%" numero="+")
           .h4.mb-2 Bolsa de la carpa o maleta porta equipos:
-          p.mb-0 estuche de material resistente (lona o cuero), también puede ser una maleta de camping donde se introduce el cuerpo de la carpa, el sobretecho y todos los elementos necesarios como la estructuras y accesorios que forman parte de la carpa. 
+          p.mb-0 Estuche de material resistente (lona o cuero), también puede ser una maleta de <em>camping</em> donde se introduce el cuerpo de la carpa, el sobretecho y todos los elementos necesarios como la estructuras y accesorios que forman parte de la carpa. 
         .tarjeta.fondo-20.p-3(x="80.5%" y="12.5%" numero="+")
           .h4.mb-2 Cuerpo de la carpa
-          p.mb-0 es en materiales de lona, impermeable y resistente, debe permitir buena ventilación, y generalmente de colores mixtos, este se compone de las paredes, techo y suelo de la carpa.
+          p.mb-0 Es en materiales de lona, impermeable y resistente, debe permitir buena ventilación, y generalmente de colores mixtos, este se compone de las paredes, techo y suelo de la carpa.
         .tarjeta.fondo-20.p-3(x="37%" y="74.2%" numero="+")
           .h4.mb-2 Piso
-          p.mb-0 es de material impermeable, lona firme y resistente para que no penetre la humedad del suelo.  
+          p.mb-0 Es de material impermeable, lona firme y resistente para que no penetre la humedad del suelo.  
         .tarjeta.fondo-20.p-3(x="49.5%" y="4.2%" numero="+")
           .h4.mb-2 Sobretecho
-          p.mb-0 es de tela impermeabilizada para proteger a la carpa de las inclemencias del tiempo, se usan los sobretechos de colores vivos para identificar el campamento, importante aclarar que para actividades de camping especializadas como observación de aves o cuando se acampa dentro de un bosque, las carpas y sobretechos son de colores verdes, camuflados u oscuros para ir en contraste con el medio natural.
+          p.mb-0 Es de tela impermeabilizada para proteger a la carpa de las inclemencias del tiempo, se usan los sobretechos de colores vivos para identificar el campamento, importante aclarar que para actividades de <em>camping</em> especializadas como observación de aves o cuando se acampa dentro de un bosque, las carpas y sobretechos son de colores verdes, camuflados u oscuros para ir en contraste con el medio natural.
         .tarjeta.fondo-20.p-3(x="23%" y="31%" numero="+")
           .h4.mb-2 Vientos
-          p.mb-0 son cuerdas o cordinos de espesor delgado, se utilizan para mantener desplegada y templada la carpa y el sobretecho de la misma.
+          p.mb-0 Son cuerdas o cordinos de espesor delgado, se utilizan para mantener desplegada y templada la carpa y el sobretecho de la misma.
         .tarjeta.fondo-20.p-3(x="47%" y="86.8%" numero="+")
           .h4.mb-2 Ojales
-          p.mb-0 son argollas o anillos metálicos, se utilizan para fijar los vientos y el piso de la carpa al suelo, también son los orificios de los extremos externos del piso de la carpa por donde se introducen las estacas o anclajes.
+          p.mb-0 Son argollas o anillos metálicos, se utilizan para fijar los vientos y el piso de la carpa al suelo, también son los orificios de los extremos externos del piso de la carpa por donde se introducen las estacas o anclajes.
         .tarjeta.fondo-20.p-3(x="9.5%" y="81%" numero="+")
           .h4.mb-2 Bolsa de herrajes
-          p.mb-0 estuche o forro donde se guardan las estacas, parantes y cumbreras.
+          p.mb-0 Estuche o forro donde se guardan las estacas, parantes y cumbreras.
         .tarjeta.fondo-20.p-3(x="25%" y="6.5%" numero="+")
           .h4.mb-2 Cumbreras y parantes
-          p.mb-0 constituyen la estructura rígida de la carpa, se construyen de aluminio o de hierro, para la comodidad del traslado se separan en tramos, esta estructura también se puede conocer como el esqueleto de la carpa.
+          p.mb-0 Constituyen la estructura rígida de la carpa, se construyen de aluminio o de hierro, para la comodidad del traslado se separan en tramos, esta estructura también se puede conocer como el esqueleto de la carpa.
         .tarjeta.fondo-20.p-3(x="23.4%" y="91%" numero="+")
           .h4.mb-2 Estacas
-          p.mb-0 sirven para fijar el piso, los vientos y el sobretecho de la carpa, son en aluminio, hierro, plástico o madera.
+          p.mb-0 Sirven para fijar el piso, los vientos y el sobretecho de la carpa, son en aluminio, hierro, plástico o madera.
     p.mb-5(data-aos="fade-down-right") Existen otros tipos de carpas que se encuentran en el mercado, los cuales se presentan a continuación.
     .row.align-items-center.my-5
       .col-1(data-aos="fade-down")
@@ -55,70 +55,70 @@
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpas convencionales o fijas
-          p se caracterizan por ser de grandes superficies, se instalan para eventos prolongados o albergues temporales, además tienen capacidad para grupos grandes.
+          p Se caracterizan por ser de grandes superficies, se instalan para eventos prolongados o albergues temporales, además tienen capacidad para grupos grandes.
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen2.png')
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpas de campaña
-          p se caracterizan por tener una mayor superficie; por lo tanto, más volumen y peso, también se utilizan para campamentos prolongados, es muy común que este tipo de carpas sean con techo a dos aguas. 
+          p Se caracterizan por tener una mayor superficie; por lo tanto, más volumen y peso, también se utilizan para campamentos prolongados, es muy común que este tipo de carpas sean con techo a dos aguas. 
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen3.png')
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpas de expedición
-          p son aptas para llegar a territorios alejados y de difícil acceso, son utilizadas para las caminatas prolongadas para expedición, ya que sus materiales son livianos, resistentes y su estructura es de fácil armado.
+          p Son aptas para llegar a territorios alejados y de difícil acceso, son utilizadas para las caminatas prolongadas para expedición, ya que sus materiales son livianos, resistentes y su estructura es de fácil armado.
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen4.png')
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpas estructurales
-          p se caracterizan por su gran superficie cubierta, está compuesta de tramos ensamblables, en su mayoría unidos entre sí para facilitar su armado, van fijas al piso y usualmente no usan vientos.
+          p Se caracterizan por su gran superficie cubierta, está compuesta de tramos ensamblables, en su mayoría unidos entre sí para facilitar su armado, van fijas al piso y usualmente no usan vientos.
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen5.png')
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpas por marcas y estaciones
-          p estas se caracterizan por estar fabricadas con materiales altamente resistentes e impermeables ante los climas más fríos y la alta montaña (cm3 de agua 1.100, referencia técnica para la carpa 4 estaciones, son las más costosas y finas del mercado).
+          p Estas se caracterizan por estar fabricadas con materiales altamente resistentes e impermeables ante los climas más fríos y la alta montaña (cm3 de agua 1.100, referencia técnica para la carpa 4 estaciones, son las más costosas y finas del mercado).
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen6.png')
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpas por tendencias y experiencias
-          p aquí se pueden mencionar los campamentos temáticos y en especial una tendencia reciente que es el <em>glamping</em> (campamentos con <em>glamur</em> y <em>confort</em>) y campamentos temáticos, como un tipo de alojamiento en el medio natural, acampando con todas las comodidades de un hotel.
+          p Aquí se pueden mencionar los campamentos temáticos y en especial una tendencia reciente que es el <em>glamping</em> (campamentos con <em>glamur</em> y <em>confort</em>) y campamentos temáticos, como un tipo de alojamiento en el medio natural, acampando con todas las comodidades de un hotel.
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen7.png')
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpas para <em>glamping</em>
-          p <em>glamping</em> o <em>glamorous camping</em> es un creciente fenómeno global que combina la experiencia de acampar al aire libre con el lujo y las condiciones propias de los mejores hoteles. El término acuñado a finales del Siglo XIX es una fusión de las palabras <em>glamour</em> y <em>camping</em>.
+          p <em>Glamping</em> o <em>glamorous camping</em> es un creciente fenómeno global que combina la experiencia de acampar al aire libre con el lujo y las condiciones propias de los mejores hoteles. El término acuñado a finales del Siglo XIX es una fusión de las palabras <em>glamour</em> y <em>camping</em>.
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen8.png')
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpa canadiense
-          p es aquella que tiene la forma clásica de una carpa, está compuesta por mástiles o varillas, y en su mayoría cuentan con una transversal en la parte superior que le da soporte a la carpa, manteniéndola templada con la ayuda de los vientos, no se recomienda para lugares caracterizados por fuertes corrientes de aire.
+          p Es aquella que tiene la forma clásica de una carpa, está compuesta por mástiles o varillas, y en su mayoría cuentan con una transversal en la parte superior que le da soporte a la carpa, manteniéndola templada con la ayuda de los vientos, no se recomienda para lugares caracterizados por fuertes corrientes de aire.
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen9.png')
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpa tipo <em>“Igloo”</em>
-          p este tipo de carpa se caracteriza por su flexibilidad, debido a que su forma esférica y la elasticidad de su varillaje le permite soportar fuertes vientos. Suelen ser resistentes y fáciles de transportar gracias a que sus materiales de fabricación son muy ligeros.
+          p Este tipo de carpa se caracteriza por su flexibilidad, debido a que su forma esférica y la elasticidad de su varillaje le permite soportar fuertes vientos. Suelen ser resistentes y fáciles de transportar gracias a que sus materiales de fabricación son muy ligeros.
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen10.png')
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpa estructural
-          p se caracteriza por contar con grandes dimensiones en cuanto a su estructura, suele asemejarse a casas, contando con varias subdivisiones para separar ambientes. 
+          p Se caracteriza por contar con grandes dimensiones en cuanto a su estructura, suele asemejarse a casas, contando con varias subdivisiones para separar ambientes. 
           p Es utilizada generalmente para campamentos base prolongados, enfermería, refugios, bodega o eventos como el circo, etc.
         .col-lg-8.col-md-12
           figure
@@ -126,7 +126,7 @@
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Carpa especial
-          p son carpas confeccionadas para condiciones climáticas específicas, por ejemplo, la Antártida, la selva, alta montaña, etc., también se clasifican por estaciones de uno a cuatro, es decir, se adapta a cada una de ellas, es utilizada generalmente para zona naval, glacial o para climas muy fríos.
+          p Son carpas confeccionadas para condiciones climáticas específicas, por ejemplo, la Antártida, la selva, alta montaña, etc., también se clasifican por estaciones de uno a cuatro, es decir, se adapta a cada una de ellas, es utilizada generalmente para zona naval, glacial o para climas muy fríos.
         .col-lg-8.col-md-12
           figure
             img(src='@/assets/curso/tema4/imagen12.png')

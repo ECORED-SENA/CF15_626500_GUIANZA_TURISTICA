@@ -72,7 +72,7 @@
       .row
         .col-xl-4.col-lg-12.mb-4.mb-md-0
           h4 Logística de salida de campo
-          p se corrobora la lista de asistentes con sus respectivos documentos, seguridad social,  se toman registros fotográficos y se ejecuta la salida de campo con las respectivas paradas técnicas y se realizan visitas a los lugares de interés que  estén ubicados sobre el recorrido.
+          p Se corrobora la lista de asistentes con sus respectivos documentos, seguridad social,  se toman registros fotográficos y se ejecuta la salida de campo con las respectivas paradas técnicas y se realizan visitas a los lugares de interés que  estén ubicados sobre el recorrido.
           p En este tiempo el grupo debe estar acompañado de un guía líder, un guía rastrillo y el equipo de trabajo, por otro lado, toda salida de campo debe tener apertura por parte del equipo organizador con una carga motivacional para interactuar con la naturaleza y un cierre donde se debe retroalimentar lo vivido y experimentado en la salida de campo.
         .col-xl-8.col-lg-12
           figure
@@ -125,11 +125,11 @@
               td 
                 p.text-bold LUGAR DE ENCUENTRO:
               td
-                .h6.mb-0 HORA DE SALIDA: 
+                p.text-bold HORA DE SALIDA: 
               td
             tr
               td
-                p.text-bold GRUPO:
+                p.text-bold No. PAX:
               td 
                 p.text-bold GUÍA 1:
               td
@@ -247,7 +247,7 @@
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 1.2 Roles administrativos del guía de turismo
-    
+    p.mb-5 Para abordar los roles administrativos del guía de turismo se inicia por sus funciones en relación con los referentes normativos de la legislación turística colombiana, que en resumen son:
     //-tarjetas slide nuevo
     .row.justify-content-center.mb-5(data-aos="fade")
       .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
@@ -346,7 +346,7 @@
       .row
         .col-lg-4.col-md-12.mb-4.mb-md-0
           h4 Ubicación servicios de apoyo
-          p Identificar la ubicación de los servicios de ayuda esenciales existentes en el lugar en la zona, el directorio de contactos (hospitales, puestos de salud, salas de primeros auxilios, fuerzas de seguridad, grupos de búsqueda y rescate, guarda parques y seguros de accidente).
+          p Identificar la ubicación de los servicios de ayuda esenciales existentes en el lugar en la zona, el directorio de contactos (hospitales, puestos de salud, salas de primeros auxilios, fuerzas de seguridad, grupos de búsqueda y rescate, guardaparques y seguros de accidente).
       
         .col-lg-8.col-md-12
           figure
