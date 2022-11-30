@@ -243,7 +243,7 @@
     p.mb-5(data-aos="fade-down-left") Por eso, es necesario implementar y aplicar buenas prácticas turísticas y sostenibles en el desarrollo de salidas de campo como impulso y apoyo a la estrategia de gestión y sostenibilidad, las cuales se pueden enfocar en las siguientes dimensiones:
     figure.mb-5(data-aos="fade-down-right")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/M0rGvAnumBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/XGe0YIH7a8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 1.2 Roles administrativos del guía de turismo
